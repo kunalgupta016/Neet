@@ -1,0 +1,503 @@
+[
+    {
+      "question": "What is the SI unit of force?",
+      "correct_answer": "Newton",
+      "incorrect_answers": ["Joule", "Watt", "Pascal"]
+    },
+    {
+      "question": "Which law relates the force between two charges?",
+      "correct_answer": "Coulomb's Law",
+      "incorrect_answers": ["Newton's Law", "Ohm's Law", "Faraday's Law"]
+    },
+    {
+      "question": "What is the formula for gravitational potential energy near Earth's surface?",
+      "correct_answer": "mgh",
+      "incorrect_answers": ["1/2 mv^2", "mv", "mg/r"]
+    },
+    {
+      "question": "What is the speed of light in vacuum?",
+      "correct_answer": "3 x 10^8 m/s",
+      "incorrect_answers": ["3 x 10^6 m/s", "3 x 10^7 m/s", "3 x 10^5 m/s"]
+    },
+    {
+      "question": "Which phenomenon explains the bending of light when passing through different media?",
+      "correct_answer": "Refraction",
+      "incorrect_answers": ["Reflection", "Diffraction", "Interference"]
+    },
+    {
+      "question": "What is Ohm's Law?",
+      "correct_answer": "V = IR",
+      "incorrect_answers": ["V = I/R", "V = R/I", "V = I + R"]
+    },
+    {
+      "question": "Which type of lens is thicker at the center than at the edges?",
+      "correct_answer": "Convex lens",
+      "incorrect_answers": ["Concave lens", "Planar lens", "Cylindrical lens"]
+    },
+    {
+      "question": "What is the SI unit of electric charge?",
+      "correct_answer": "Coulomb",
+      "incorrect_answers": ["Volt", "Ampere", "Watt"]
+    },
+    {
+      "question": "What does the photoelectric effect demonstrate?",
+      "correct_answer": "Particle nature of light",
+      "incorrect_answers": ["Wave nature of light", "Theory of relativity", "Electrostatic induction"]
+    },
+    {
+      "question": "Which principle states that energy cannot be created or destroyed?",
+      "correct_answer": "Conservation of Energy",
+      "incorrect_answers": ["Conservation of Momentum", "Conservation of Mass", "Conservation of Charge"]
+    },
+    {
+      "question": "What is the formula for kinetic energy?",
+      "correct_answer": "1/2 mv^2",
+      "incorrect_answers": ["mv", "mgh", "F x d"]
+    },
+    {
+      "question": "What is the phenomenon of splitting white light into colors called?",
+      "correct_answer": "Dispersion",
+      "incorrect_answers": ["Diffraction", "Interference", "Polarization"]
+    },
+    {
+      "question": "Which instrument is used to measure electric current?",
+      "correct_answer": "Ammeter",
+      "incorrect_answers": ["Voltmeter", "Ohmmeter", "Barometer"]
+    },
+    {
+      "question": "What is the SI unit of frequency?",
+      "correct_answer": "Hertz",
+      "incorrect_answers": ["Newton", "Joule", "Pascal"]
+    },
+    {
+      "question": "What is the bending of light around obstacles called?",
+      "correct_answer": "Diffraction",
+      "incorrect_answers": ["Reflection", "Refraction", "Scattering"]
+    },
+    {
+      "question": "Which law is represented by F = ma?",
+      "correct_answer": "Newton's Second Law",
+      "incorrect_answers": ["Newton's First Law", "Newton's Third Law", "Hooke's Law"]
+    },
+    {
+      "question": "What is the unit of electric resistance?",
+      "correct_answer": "Ohm",
+      "incorrect_answers": ["Volt", "Ampere", "Watt"]
+    },
+    {
+      "question": "Which type of mirror forms an image that is always real and inverted?",
+      "correct_answer": "Concave mirror",
+      "incorrect_answers": ["Convex mirror", "Plane mirror", "Cylindrical mirror"]
+    },
+    {
+      "question": "Which quantity is conserved in an elastic collision?",
+      "correct_answer": "Kinetic energy",
+      "incorrect_answers": ["Potential energy", "Thermal energy", "Chemical energy"]
+    },
+    {
+      "question": "What does a galvanometer measure?",
+      "correct_answer": "Electric current",
+      "incorrect_answers": ["Voltage", "Resistance", "Capacitance"]
+    },
+    {
+      "question": "What is the formula for momentum?",
+      "correct_answer": "mv",
+      "incorrect_answers": ["m/v", "1/2 mv^2", "F x t"]
+    },
+    {
+      "question": "What is the phenomenon of emitting light by a substance that has not been heated called?",
+      "correct_answer": "Luminescence",
+      "incorrect_answers": ["Incandescence", "Fluorescence", "Phosphorescence"]
+    },
+    {
+      "question": "Which type of electromagnetic radiation has the shortest wavelength?",
+      "correct_answer": "Gamma rays",
+      "incorrect_answers": ["X-rays", "Ultraviolet rays", "Infrared rays"]
+    },
+    {
+      "question": "What is the unit of pressure?",
+      "correct_answer": "Pascal",
+      "incorrect_answers": ["Newton", "Joule", "Watt"]
+    },
+    {
+      "question": "What is the work done when a force of 10 N moves an object 5 m?",
+      "correct_answer": "50 Joules",
+      "incorrect_answers": ["15 Joules", "5 Joules", "10 Joules"]
+    },
+    {
+      "question": "Which law states that the total flux out of a closed surface is proportional to the enclosed charge?",
+      "correct_answer": "Gauss's Law",
+      "incorrect_answers": ["Faraday's Law", "Ampere's Law", "Coulomb's Law"]
+    },
+    {
+      "question": "What is the term for the rate of doing work?",
+      "correct_answer": "Power",
+      "incorrect_answers": ["Energy", "Force", "Momentum"]
+    },
+    {
+      "question": "Which subatomic particle has a negative charge?",
+      "correct_answer": "Electron",
+      "incorrect_answers": ["Proton", "Neutron", "Positron"]
+    },
+    {
+      "question": "What is the phenomenon of light bending around corners called?",
+      "correct_answer": "Diffraction",
+      "incorrect_answers": ["Refraction", "Reflection", "Dispersion"]
+    },
+    {
+      "question": "What is the equation for the energy of a photon?",
+      "correct_answer": "E = hf",
+      "incorrect_answers": ["E = mc^2", "E = 1/2 mv^2", "E = VIt"]
+    },
+    {
+      "question": "What is the SI unit of magnetic field strength?",
+      "correct_answer": "Tesla",
+      "incorrect_answers": ["Gauss", "Weber", "Henry"]
+    },
+    {
+      "question": "Which type of lens is thinner at the center than at the edges?",
+      "correct_answer": "Concave lens",
+      "incorrect_answers": ["Convex lens", "Cylindrical lens", "Planar lens"]
+    },
+    {
+      "question": "What is the law that explains the behavior of an ideal gas?",
+      "correct_answer": "Ideal Gas Law",
+      "incorrect_answers": ["Boyle's Law only", "Charles's Law only", "Avogadro's Law only"]
+    },
+    {
+      "question": "What is the term for the bending of light due to gravity?",
+      "correct_answer": "Gravitational lensing",
+      "incorrect_answers": ["Refraction", "Diffraction", "Reflection"]
+    },
+    {
+      "question": "What is the fundamental unit of electric current?",
+      "correct_answer": "Ampere",
+      "incorrect_answers": ["Volt", "Watt", "Ohm"]
+    },
+    {
+      "question": "Which law explains the conservation of linear momentum?",
+      "correct_answer": "Newton's Third Law",
+      "incorrect_answers": ["Newton's First Law", "Newton's Second Law", "Law of Universal Gravitation"]
+    },
+    {
+      "question": "What is the unit of energy?",
+      "correct_answer": "Joule",
+      "incorrect_answers": ["Newton", "Watt", "Pascal"]
+    },
+    {
+      "question": "Which particle in an atom has a mass approximately equal to 1 atomic mass unit?",
+      "correct_answer": "Proton",
+      "incorrect_answers": ["Electron", "Neutron", "Positron"]
+    },
+    {
+      "question": "Which phenomenon is responsible for the blue color of the sky?",
+      "correct_answer": "Rayleigh scattering",
+      "incorrect_answers": ["Mie scattering", "Diffraction", "Absorption"]
+    },
+    {
+      "question": "What is the process by which plants convert light energy into chemical energy?",
+      "correct_answer": "Photosynthesis",
+      "incorrect_answers": ["Respiration", "Fermentation", "Transpiration"]
+    },
+    {
+      "question": "What is the term for the energy possessed by a body due to its motion?",
+      "correct_answer": "Kinetic energy",
+      "incorrect_answers": ["Potential energy", "Thermal energy", "Chemical energy"]
+    },
+    {
+      "question": "Which principle states that no two electrons in an atom can have the same set of quantum numbers?",
+      "correct_answer": "Pauli Exclusion Principle",
+      "incorrect_answers": ["Heisenberg Uncertainty Principle", "Bohr's Postulate", "de Broglie Hypothesis"]
+    },
+    {
+      "question": "What is the unit of capacitance?",
+      "correct_answer": "Farad",
+      "incorrect_answers": ["Ohm", "Henry", "Tesla"]
+    },
+    {
+      "question": "Which of the following is a vector quantity?",
+      "correct_answer": "Velocity",
+      "incorrect_answers": ["Speed", "Mass", "Temperature"]
+    },
+    {
+      "question": "Which phenomenon explains the formation of a rainbow?",
+      "correct_answer": "Refraction and dispersion",
+      "incorrect_answers": ["Reflection only", "Diffraction only", "Polarization"]
+    },
+    {
+      "question": "What is the SI unit of electric field strength?",
+      "correct_answer": "Volt per meter",
+      "incorrect_answers": ["Tesla", "Newton per coulomb", "Ampere per meter"]
+    },
+    {
+      "question": "What does the term 'inertia' refer to?",
+      "correct_answer": "Resistance to change in motion",
+      "incorrect_answers": ["Force applied", "Acceleration", "Energy consumption"]
+    },
+    {
+      "question": "What is the relationship between mass and energy according to Einstein?",
+      "correct_answer": "E = mc^2",
+      "incorrect_answers": ["E = m/v", "E = mv", "E = 1/2 mv^2"]
+    },
+    {
+      "question": "Which type of circuit has only one path for current to flow?",
+      "correct_answer": "Series circuit",
+      "incorrect_answers": ["Parallel circuit", "Combination circuit", "Short circuit"]
+    },
+    {
+      "question": "What is the term for the tendency of an object to resist a change in its state of motion?",
+      "correct_answer": "Inertia",
+      "incorrect_answers": ["Momentum", "Force", "Acceleration"]
+    },
+    {
+      "question": "Which law states that every action has an equal and opposite reaction?",
+      "correct_answer": "Newton's Third Law",
+      "incorrect_answers": ["Newton's First Law", "Newton's Second Law", "Hooke's Law"]
+    },
+    {
+      "question": "What is the unit of angular momentum?",
+      "correct_answer": "kg·m^2/s",
+      "incorrect_answers": ["N·m", "Joule", "Watt"]
+    },
+    {
+      "question": "Which property of light is responsible for interference patterns?",
+      "correct_answer": "Wave nature",
+      "incorrect_answers": ["Particle nature", "Mass", "Energy"]
+    },
+    {
+      "question": "What is the measure of an object's resistance to rotational motion?",
+      "correct_answer": "Moment of inertia",
+      "incorrect_answers": ["Angular momentum", "Torque", "Angular velocity"]
+    },
+    {
+      "question": "Which phenomenon describes the emission of electrons when light strikes a material?",
+      "correct_answer": "Photoelectric effect",
+      "incorrect_answers": ["Compton scattering", "Pair production", "Blackbody radiation"]
+    },
+    {
+      "question": "What is the unit of frequency in rotational motion?",
+      "correct_answer": "Hertz",
+      "incorrect_answers": ["Radians per second", "Newton", "Pascal"]
+    },
+    {
+      "question": "Which concept explains the stability of an atom's electron configuration?",
+      "correct_answer": "Quantum mechanics",
+      "incorrect_answers": ["Classical mechanics", "Thermodynamics", "Newtonian physics"]
+    },
+    {
+      "question": "What is the term for the lowest energy state of an atom?",
+      "correct_answer": "Ground state",
+      "incorrect_answers": ["Excited state", "Ionized state", "Stable state"]
+    },
+    {
+      "question": "Which phenomenon is described by the wave-particle duality of matter?",
+      "correct_answer": "De Broglie hypothesis",
+      "incorrect_answers": ["Heisenberg uncertainty", "Schrodinger's equation", "Pauli exclusion"]
+    },
+    {
+      "question": "What is the unit of inductance?",
+      "correct_answer": "Henry",
+      "incorrect_answers": ["Farad", "Ohm", "Tesla"]
+    },
+    {
+      "question": "Which type of radiation is used in medical X-rays?",
+      "correct_answer": "X-rays",
+      "incorrect_answers": ["Gamma rays", "Ultraviolet rays", "Infrared rays"]
+    },
+    {
+      "question": "Which law relates current density to electric field in a conductor?",
+      "correct_answer": "Ohm's Law",
+      "incorrect_answers": ["Gauss's Law", "Faraday's Law", "Ampere's Law"]
+    },
+    {
+      "question": "What is the term for the frequency at which a system naturally oscillates?",
+      "correct_answer": "Resonant frequency",
+      "incorrect_answers": ["Damping frequency", "Forced frequency", "Angular frequency"]
+    },
+    {
+      "question": "Which property of a wave is measured in meters?",
+      "correct_answer": "Wavelength",
+      "incorrect_answers": ["Frequency", "Amplitude", "Speed"]
+    },
+    {
+      "question": "What is the unit of luminous intensity?",
+      "correct_answer": "Candela",
+      "incorrect_answers": ["Lumen", "Lux", "Watt"]
+    },
+    {
+      "question": "Which law explains the force between two current-carrying wires?",
+      "correct_answer": "Ampere's force law",
+      "incorrect_answers": ["Faraday's law", "Coulomb's law", "Gauss's law"]
+    },
+    {
+      "question": "Which phenomenon occurs when two waves superimpose to form a resultant wave?",
+      "correct_answer": "Interference",
+      "incorrect_answers": ["Diffraction", "Reflection", "Refraction"]
+    },
+    {
+      "question": "What is the term for the maximum displacement in simple harmonic motion?",
+      "correct_answer": "Amplitude",
+      "incorrect_answers": ["Period", "Frequency", "Phase"]
+    },
+    {
+      "question": "Which of the following is a scalar quantity?",
+      "correct_answer": "Speed",
+      "incorrect_answers": ["Velocity", "Displacement", "Force"]
+    },
+    {
+      "question": "What is the unit of work?",
+      "correct_answer": "Joule",
+      "incorrect_answers": ["Watt", "Newton", "Pascal"]
+    },
+    {
+      "question": "Which phenomenon is the basis of quantum tunneling?",
+      "correct_answer": "Wave-particle duality",
+      "incorrect_answers": ["Classical collision", "Newtonian motion", "Electrostatic repulsion"]
+    },
+    {
+      "question": "What is the formula for centripetal force?",
+      "correct_answer": "mv^2/r",
+      "incorrect_answers": ["mvr", "mv^2", "mω^2"]
+    },
+    {
+      "question": "What is the unit of electric potential?",
+      "correct_answer": "Volt",
+      "incorrect_answers": ["Joule", "Coulomb", "Ampere"]
+    },
+    {
+      "question": "Which effect describes the change in frequency of a wave due to relative motion?",
+      "correct_answer": "Doppler effect",
+      "incorrect_answers": ["Photoelectric effect", "Interference", "Diffraction"]
+    },
+    {
+      "question": "What is the property of a material that measures its ability to conduct electricity?",
+      "correct_answer": "Conductivity",
+      "incorrect_answers": ["Resistivity", "Permittivity", "Permeability"]
+    },
+    {
+      "question": "Which of the following is an example of a non-contact force?",
+      "correct_answer": "Gravitational force",
+      "incorrect_answers": ["Frictional force", "Normal force", "Tension"]
+    },
+    {
+      "question": "What is the term for the number of oscillations per unit time?",
+      "correct_answer": "Frequency",
+      "incorrect_answers": ["Period", "Amplitude", "Phase"]
+    },
+    {
+      "question": "Which phenomenon explains why the sky appears blue?",
+      "correct_answer": "Rayleigh scattering",
+      "incorrect_answers": ["Mie scattering", "Diffraction", "Polarization"]
+    },
+    {
+      "question": "What is the formula for the period of a simple pendulum (for small angles)?",
+      "correct_answer": "T = 2π√(l/g)",
+      "incorrect_answers": ["T = 2π√(g/l)", "T = π√(l/g)", "T = 2π(l/g)"]
+    },
+    {
+      "question": "Which law describes the conservation of angular momentum?",
+      "correct_answer": "Angular momentum conservation law",
+      "incorrect_answers": ["Newton's law of universal gravitation", "Hooke's law", "Conservation of energy"]
+    },
+    {
+      "question": "What is the term for the time taken for one complete oscillation?",
+      "correct_answer": "Period",
+      "incorrect_answers": ["Frequency", "Amplitude", "Phase"]
+    },
+    {
+      "question": "Which phenomenon occurs when a material is heated and emits light?",
+      "correct_answer": "Incandescence",
+      "incorrect_answers": ["Fluorescence", "Phosphorescence", "Luminescence"]
+    },
+    {
+      "question": "What is the unit of magnetic flux?",
+      "correct_answer": "Weber",
+      "incorrect_answers": ["Tesla", "Gauss", "Henry"]
+    },
+    {
+      "question": "Which law is used to calculate the force between two point charges?",
+      "correct_answer": "Coulomb's Law",
+      "incorrect_answers": ["Gauss's Law", "Ohm's Law", "Faraday's Law"]
+    },
+    {
+      "question": "What is the measure of the bending of a light ray due to gravity?",
+      "correct_answer": "Gravitational lensing",
+      "incorrect_answers": ["Refraction", "Diffraction", "Dispersion"]
+    },
+    {
+      "question": "Which phenomenon is described by the quantization of energy levels in an atom?",
+      "correct_answer": "Atomic spectra",
+      "incorrect_answers": ["Blackbody radiation", "Photoelectric effect", "Interference"]
+    },
+    {
+      "question": "What is the formula for mechanical advantage in a simple machine?",
+      "correct_answer": "Output force/Input force",
+      "incorrect_answers": ["Input force/Output force", "Work output/Work input", "Energy output/Energy input"]
+    },
+    {
+      "question": "Which of the following best describes elastic potential energy?",
+      "correct_answer": "Energy stored in a stretched spring",
+      "incorrect_answers": ["Energy due to motion", "Energy stored in a battery", "Energy due to friction"]
+    },
+    {
+      "question": "Which phenomenon describes the observed change in wavelength of light from receding stars?",
+      "correct_answer": "Redshift",
+      "incorrect_answers": ["Blueshift", "Doppler shift", "Gravitational lensing"]
+    },
+    {
+      "question": "What is the equation for the energy stored in a capacitor?",
+      "correct_answer": "1/2 CV^2",
+      "incorrect_answers": ["CV", "1/2 CV", "C/V^2"]
+    },
+    {
+      "question": "Which concept is associated with the uncertainty in the measurement of a particle's position and momentum?",
+      "correct_answer": "Heisenberg Uncertainty Principle",
+      "incorrect_answers": ["Pauli Exclusion Principle", "De Broglie Hypothesis", "Schrodinger Equation"]
+    },
+    {
+      "question": "What is the term for the rate of heat transfer through a material?",
+      "correct_answer": "Thermal conductivity",
+      "incorrect_answers": ["Specific heat capacity", "Heat capacity", "Latent heat"]
+    },
+    {
+      "question": "Which phenomenon involves the bending of light waves around obstacles?",
+      "correct_answer": "Diffraction",
+      "incorrect_answers": ["Refraction", "Reflection", "Interference"]
+    },
+    {
+      "question": "What is the SI unit of power?",
+      "correct_answer": "Watt",
+      "incorrect_answers": ["Joule", "Newton", "Pascal"]
+    },
+    {
+      "question": "Which law explains the proportionality between the pressure and temperature of a gas at constant volume?",
+      "correct_answer": "Gay-Lussac's Law",
+      "incorrect_answers": ["Boyle's Law", "Charles's Law", "Avogadro's Law"]
+    },
+    {
+      "question": "What is the term for the number of waves passing a point per unit time?",
+      "correct_answer": "Frequency",
+      "incorrect_answers": ["Wavelength", "Amplitude", "Velocity"]
+    },
+    {
+      "question": "Which phenomenon describes the wave-like interference pattern observed in electrons?",
+      "correct_answer": "Electron diffraction",
+      "incorrect_answers": ["Photoelectric effect", "Compton scattering", "Cherenkov radiation"]
+    },
+    {
+      "question": "What is the term for the process by which a nucleus splits into two smaller nuclei?",
+      "correct_answer": "Nuclear fission",
+      "incorrect_answers": ["Nuclear fusion", "Radioactive decay", "Beta decay"]
+    },
+    {
+      "question": "Which type of radiation is most penetrating and dangerous to human tissue?",
+      "correct_answer": "Gamma rays",
+      "incorrect_answers": ["Alpha particles", "Beta particles", "Infrared radiation"]
+    },
+    {
+      "question": "What is the term for the process in which two nuclei combine to form a heavier nucleus?",
+      "correct_answer": "Nuclear fusion",
+      "incorrect_answers": ["Nuclear fission", "Radioactive decay", "Neutron capture"]
+    }
+  ]
+  

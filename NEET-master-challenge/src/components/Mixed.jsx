@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from 'react'
-import QuestionsData from './Physics_Questions.json';
+import QuestionsData from './Mixed.json';
 import { motion } from 'framer-motion';
 import { ArrowLeft } from "lucide-react";
 import { Link } from 'react-router';
-const Physics = () => {
+const Mixed = () => {
 
-  const [questions, setquestions] = useState([]);
+    const [questions, setquestions] = useState([]);
   const [options, setOptions] = useState([]);
   const [timeLeft, setTimeLeft] = useState(10);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -88,7 +88,6 @@ const Physics = () => {
 
   if (questions.length === 0) return `<p>Loading...</p>`;
 
-
   return (
     <>
       <div className='min-h-screen min-w-screen bg-[#F7F7FA]'>
@@ -114,7 +113,7 @@ const Physics = () => {
             </div>
 
             <div> {/* Right Nav bar */}
-              <h1 className='lg:text-xl md:text-sm text-xs lg:font-bold '>Physics Quiz</h1>
+              <h1 className='lg:text-xl md:text-sm text-xs lg:font-bold '>Mixed Quiz</h1>
             </div>
           </div>
 
@@ -251,4 +250,4 @@ const Physics = () => {
   )
 }
 
-export default Physics
+export default Mixed

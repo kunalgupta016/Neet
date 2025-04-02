@@ -1,5 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion';
+import { Link } from 'react-router';
+
 
     const fadeInUp = {
         hidden: { opacity: 0, x: -200 },
@@ -78,7 +80,10 @@ const Nav = () => {
 
                                 <div className='grid grid-cols-1 md:grid-cols-2 gap-6 my-8 animate-fade-in'>
 
+                                    <Link to='/physics'>
                                     <div className='rounded-lg border text-black shadow-sm hover:shadow-lg hover:border-[#7C3AED] cursor-pointer transform transition-all duration-300 hover:scale-105'>
+                                        
+                                        
                                         <div className='flex flex-col space-y-1.5 p-6 pb-2'>
                                         <h3 className='text-2xl font-semibold leading-none tracking-tight flex items-center gap-2 text-[#4B0082]'>
                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-atom h-6 w-6" data-lov-id="src/components/SubjectSelection.tsx:21:12" data-lov-name="Atom" data-component-path="src/components/SubjectSelection.tsx" data-component-line="21" data-component-file="SubjectSelection.tsx" data-component-name="Atom" data-component-content="%7B%22className%22%3A%22h-6%20w-6%22%7D"><circle cx="12" cy="12" r="1"></circle><path d="M20.2 20.2c2.04-2.03.02-7.36-4.5-11.9-4.54-4.52-9.87-6.54-11.9-4.5-2.04 2.03-.02 7.36 4.5 11.9 4.54 4.52 9.87 6.54 11.9 4.5Z"></path><path d="M15.7 15.7c4.52-4.54 6.54-9.87 4.5-11.9-2.03-2.04-7.36-.02-11.9 4.5-4.52 4.54-6.54 9.87-4.5 11.9 2.03 2.04 7.36.02 11.9-4.5Z"></path></svg>
@@ -89,6 +94,9 @@ const Nav = () => {
                                         </p>
 
                                     </div>
+                                        
+                                        
+                                        
 
                                     <div className='p-6 pt-0 flex flex-col items-center justify-center'>
                                         <p className='text-sm text-black'>
@@ -103,8 +111,10 @@ const Nav = () => {
                                     </div>
                                            
                                     </div>
+                                    </Link>
 
 
+                                    <Link to='/chemistry'>
                                     <div className='rounded-lg border text-black shadow-sm hover:shadow-lg hover:border-[#0369A1] cursor-pointer transform transition-all duration-300 hover:scale-105'>
                                         <div className='flex flex-col space-y-1.5 p-6 pb-2'>
                                         <h3 className='text-2xl font-semibold leading-none tracking-tight flex items-center gap-2 text-[#0369A1]'>
@@ -130,7 +140,9 @@ const Nav = () => {
                                     </div>
                                            
                                     </div>
+                                    </Link>
 
+                                    <Link to='/biology'>
                                     <div className='rounded-lg border text-black shadow-sm hover:shadow-lg hover:border-[#EA580C] cursor-pointer transform transition-all duration-300 hover:scale-105'>
                                         <div className='flex flex-col space-y-1.5 p-6 pb-2'>
                                         <h3 className='text-2xl font-semibold leading-none tracking-tight flex items-center gap-2 text-[#EA580C]'>
@@ -156,9 +168,11 @@ const Nav = () => {
                                     </div>
                                            
                                     </div>
+                                    </Link>
 
 
-                                    <div className='rounded-lg border text-black shadow-sm hover:shadow-lg hover:border-[#10B981] cursor-pointer transform transition-all duration-300 hover:scale-105'>
+                                   <Link to='/mixed'>
+                                   <div className='rounded-lg border text-black shadow-sm hover:shadow-lg hover:border-[#10B981] cursor-pointer transform transition-all duration-300 hover:scale-105'>
                                         <div className='flex flex-col space-y-1.5 p-6 pb-2'>
                                         <h3 className='text-2xl font-semibold leading-none tracking-tight flex items-center gap-2 text-[#10B981]'>
                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-atom h-6 w-6" data-lov-id="src/components/SubjectSelection.tsx:21:12" data-lov-name="Atom" data-component-path="src/components/SubjectSelection.tsx" data-component-line="21" data-component-file="SubjectSelection.tsx" data-component-name="Atom" data-component-content="%7B%22className%22%3A%22h-6%20w-6%22%7D"><circle cx="12" cy="12" r="1"></circle><path d="M20.2 20.2c2.04-2.03.02-7.36-4.5-11.9-4.54-4.52-9.87-6.54-11.9-4.5-2.04 2.03-.02 7.36 4.5 11.9 4.54 4.52 9.87 6.54 11.9 4.5Z"></path><path d="M15.7 15.7c4.52-4.54 6.54-9.87 4.5-11.9-2.03-2.04-7.36-.02-11.9 4.5-4.52 4.54-6.54 9.87-4.5 11.9 2.03 2.04 7.36.02 11.9-4.5Z"></path></svg>
@@ -183,6 +197,7 @@ const Nav = () => {
                                     </div>
                                            
                                     </div>
+                                   </Link>
 
 
 
