@@ -7,7 +7,7 @@ const Physics = () => {
 
   const [questions, setquestions] = useState([]);
   const [options, setOptions] = useState([]);
-  const [timeLeft, setTimeLeft] = useState(10);
+  const [timeLeft, setTimeLeft] = useState(20);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [useSkip,setUseSkip] = useState(true);
@@ -23,7 +23,7 @@ const Physics = () => {
     setquestions(shuffled);
     setCurrentIndex(0);
     setScore(0);
-    setTimeLeft(10);
+    setTimeLeft(20);
     setQuizOver(false);
     setUseSkip(true);
     setUseFiftyFifty(true);
@@ -44,7 +44,7 @@ const Physics = () => {
   const loadQuestions = (question)=>{
       const choices = [...question.incorrect_answers,question.correct_answer];
       setOptions(choices.sort(()=>Math.random-0.5));
-      setTimeLeft(10);
+      setTimeLeft(20);
   }
 
   const nextQuestion = () =>{
