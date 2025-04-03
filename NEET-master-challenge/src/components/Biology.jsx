@@ -6,7 +6,7 @@ import { Link } from 'react-router';
 const Biology = () => {
     const [questions, setquestions] = useState([]);
   const [options, setOptions] = useState([]);
-  const [timeLeft, setTimeLeft] = useState(10);
+  const [timeLeft, setTimeLeft] = useState(20);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [useSkip,setUseSkip] = useState(true);
@@ -22,7 +22,7 @@ const Biology = () => {
     setquestions(shuffled);
     setCurrentIndex(0);
     setScore(0);
-    setTimeLeft(10);
+    setTimeLeft(20);
     setQuizOver(false);
     setUseSkip(true);
     setUseFiftyFifty(true);
