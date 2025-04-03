@@ -43,7 +43,7 @@ const Biology = () => {
   const loadQuestions = (question)=>{
       const choices = [...question.incorrect_answers,question.correct_answer];
       setOptions(choices.sort(()=>Math.random-0.5));
-      setTimeLeft(10);
+      setTimeLeft(20);
   }
 
   const nextQuestion = () =>{
