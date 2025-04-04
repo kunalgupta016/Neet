@@ -1,0 +1,518 @@
+[
+    {
+      "question": "What is the hybridization of carbon in CH4?",
+      "correct_answer": "sp3",
+      "incorrect_answers": ["sp2", "sp", "dsp2"]
+    },
+    {
+      "question": "What is the oxidation state of manganese in KMnO4?",
+      "correct_answer": "+7",
+      "incorrect_answers": ["+2", "+4", "+6"]
+    },
+    {
+      "question": "Which of the following is a strong acid?",
+      "correct_answer": "HCl",
+      "incorrect_answers": ["HF", "H2CO3", "CH3COOH"]
+    },
+    {
+      "question": "What is the molecular geometry of BF3?",
+      "correct_answer": "Trigonal planar",
+      "incorrect_answers": ["Tetrahedral", "Linear", "Trigonal pyramidal"]
+    },
+    {
+      "question": "Which compound is amphoteric in nature?",
+      "correct_answer": "ZnO",
+      "incorrect_answers": ["Na2O", "K2O", "CaO"]
+    },
+    {
+      "question": "What is the effective atomic number of Fe in [Fe(CN)6]3-?",
+      "correct_answer": "18",
+      "incorrect_answers": ["16", "20", "22"]
+    },
+    {
+      "question": "What is the hybridization of nitrogen in NH3?",
+      "correct_answer": "sp3",
+      "incorrect_answers": ["sp2", "sp", "dsp2"]
+    },
+    {
+      "question": "Which reagent is used to oxidize a primary alcohol to an aldehyde without further oxidation?",
+      "correct_answer": "PCC",
+      "incorrect_answers": ["KMnO4", "H2CrO4", "HNO3"]
+    },
+    {
+      "question": "Which characteristic is typical of an SN2 reaction mechanism?",
+      "correct_answer": "Inversion of configuration",
+      "incorrect_answers": ["Racemization", "Retention of configuration", "No stereochemical change"]
+    },
+    {
+      "question": "What is the hybridization of the carbon atoms in benzene?",
+      "correct_answer": "sp2",
+      "incorrect_answers": ["sp3", "sp", "dsp2"]
+    },
+    {
+      "question": "Which acid is also known as 'aqua fortis'?",
+      "correct_answer": "HNO3",
+      "incorrect_answers": ["HCl", "H2SO4", "HF"]
+    },
+    {
+      "question": "Which silver complex is formed in Tollens' test?",
+      "correct_answer": "Ag(NH3)2+",
+      "incorrect_answers": ["Ag+", "AgCl", "Ag2O"]
+    },
+    {
+      "question": "What is the molarity of a solution prepared by dissolving 58.5 g of NaCl (molar mass = 58.5 g/mol) in 1 L of solution?",
+      "correct_answer": "1 M",
+      "incorrect_answers": ["0.5 M", "2 M", "10 M"]
+    },
+    {
+      "question": "According to collision theory, what primarily affects the rate of a chemical reaction?",
+      "correct_answer": "Collision frequency",
+      "incorrect_answers": ["Catalyst amount", "Temperature drop", "Color change"]
+    },
+    {
+      "question": "Which of the following is a Lewis acid?",
+      "correct_answer": "BF3",
+      "incorrect_answers": ["NH3", "CH4", "H2O"]
+    },
+    {
+      "question": "What is the product when an alkene reacts with bromine water?",
+      "correct_answer": "Dibromide addition product",
+      "incorrect_answers": ["Alkene oxidation", "Alkane formation", "No reaction"]
+    },
+    {
+      "question": "Which compound exhibits cis-trans isomerism?",
+      "correct_answer": "2-butene",
+      "incorrect_answers": ["Methane", "Ethane", "Propane"]
+    },
+    {
+      "question": "Which bond typically has the highest bond dissociation energy?",
+      "correct_answer": "C–H bond",
+      "incorrect_answers": ["C–C bond", "N–H bond", "O–H bond"]
+    },
+    {
+      "question": "What is the correct IUPAC name for CH3COOH?",
+      "correct_answer": "Ethanoic acid",
+      "incorrect_answers": ["Acetic acid", "Propanoic acid", "Methanoic acid"]
+    },
+    {
+      "question": "What is the common oxidation state of chlorine in the perchlorate ion (ClO4-)?",
+      "correct_answer": "+7",
+      "incorrect_answers": ["+5", "+3", "+1"]
+    },
+    {
+      "question": "Which of the following is an example of a heterogeneous catalyst?",
+      "correct_answer": "Solid platinum in catalytic converters",
+      "incorrect_answers": ["Sulfuric acid", "HCl", "NaCl"]
+    },
+    {
+      "question": "What is the chemical formula for aluminum sulfate?",
+      "correct_answer": "Al2(SO4)3",
+      "incorrect_answers": ["AlSO4", "Al2S3O12", "Al(SO4)2"]
+    },
+    {
+      "question": "Which gas is evolved when a metal reacts with a dilute acid?",
+      "correct_answer": "Hydrogen gas",
+      "incorrect_answers": ["Oxygen", "Nitrogen", "Carbon dioxide"]
+    },
+    {
+      "question": "Butanone and methyl propyl ketone are examples of which type of isomerism?",
+      "correct_answer": "Functional group isomerism",
+      "incorrect_answers": ["Structural isomerism", "Geometric isomerism", "Optical isomerism"]
+    },
+    {
+      "question": "Which reagent is used to test for unsaturation in organic compounds?",
+      "correct_answer": "Bromine water",
+      "incorrect_answers": ["Benedict's reagent", "Biuret reagent", "Fehling's solution"]
+    },
+    {
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "correct_answer": "7",
+      "incorrect_answers": ["6", "8", "14"]
+    },
+    {
+      "question": "In the reaction 2NaCl + F2 → 2NaF + Cl2, which species acts as the oxidizing agent?",
+      "correct_answer": "F2",
+      "incorrect_answers": ["NaCl", "NaF", "Cl2"]
+    },
+    {
+      "question": "What is the mechanism called for the reaction between an alcohol and a carboxylic acid to form an ester?",
+      "correct_answer": "Fischer esterification",
+      "incorrect_answers": ["SN1 substitution", "Elimination", "Free radical addition"]
+    },
+    {
+      "question": "Which element has the highest electronegativity?",
+      "correct_answer": "Fluorine",
+      "incorrect_answers": ["Oxygen", "Nitrogen", "Carbon"]
+    },
+    {
+      "question": "What is the oxidation state of sulfur in H2SO4?",
+      "correct_answer": "+6",
+      "incorrect_answers": ["+4", "+2", "0"]
+    },
+    {
+      "question": "Which compound is insoluble in water?",
+      "correct_answer": "AgCl",
+      "incorrect_answers": ["NaCl", "KNO3", "CH3OH"]
+    },
+    {
+      "question": "What type of bond is present between the nitrogen atoms in N2?",
+      "correct_answer": "Triple bond",
+      "incorrect_answers": ["Double bond", "Single bond", "Ionic bond"]
+    },
+    {
+      "question": "The Haber process is primarily used for the synthesis of which compound?",
+      "correct_answer": "Ammonia",
+      "incorrect_answers": ["Nitric acid", "Sulfuric acid", "Polymer"]
+    },
+    {
+      "question": "What is the role of a catalyst in a chemical reaction?",
+      "correct_answer": "Lowers the activation energy",
+      "incorrect_answers": ["Increases reaction enthalpy", "Acts as a reactant", "Raises the temperature"]
+    },
+    {
+      "question": "What is the common name for sodium bicarbonate?",
+      "correct_answer": "Baking soda",
+      "incorrect_answers": ["Washing soda", "Epsom salt", "Table salt"]
+    },
+    {
+      "question": "Which property is characteristic of an ideal gas?",
+      "correct_answer": "The volume of gas particles is negligible",
+      "incorrect_answers": ["The particles have a finite volume", "They interact strongly", "They are inelastic"]
+    },
+    {
+      "question": "What is the common name for Na2CO3?",
+      "correct_answer": "Washing soda",
+      "incorrect_answers": ["Baking soda", "Table salt", "Limewater"]
+    },
+    {
+      "question": "Which process is used to separate a mixture of liquids based on boiling point differences?",
+      "correct_answer": "Fractional distillation",
+      "incorrect_answers": ["Filtration", "Extraction", "Chromatography"]
+    },
+    {
+      "question": "Which compound acts as a reducing agent in organic synthesis?",
+      "correct_answer": "LiAlH4",
+      "incorrect_answers": ["H2O2", "O2", "K2Cr2O7"]
+    },
+    {
+      "question": "Which functional group is characteristic of alcohols?",
+      "correct_answer": "Hydroxyl group",
+      "incorrect_answers": ["Carbonyl group", "Amino group", "Carboxyl group"]
+    },
+    {
+      "question": "Which property is NOT typical of metals?",
+      "correct_answer": "Brittleness",
+      "incorrect_answers": ["Malleability", "Conductivity", "Ductility"]
+    },
+    {
+      "question": "What type of reaction is represented by 2H2 + O2 → 2H2O?",
+      "correct_answer": "Combination reaction",
+      "incorrect_answers": ["Decomposition", "Single replacement", "Double replacement"]
+    },
+    {
+      "question": "Which of the following is a colligative property?",
+      "correct_answer": "Boiling point elevation",
+      "incorrect_answers": ["Color", "Odor", "Density"]
+    },
+    {
+      "question": "What is the empirical formula of glucose (C6H12O6)?",
+      "correct_answer": "CH2O",
+      "incorrect_answers": ["C6H12", "C2H4O2", "C3H6O3"]
+    },
+    {
+      "question": "How is an exothermic reaction best described?",
+      "correct_answer": "Releases heat",
+      "incorrect_answers": ["Absorbs heat", "Occurs only at high temperature", "Requires continuous energy input"]
+    },
+    {
+      "question": "What is the product when an alkene undergoes hydrohalogenation?",
+      "correct_answer": "Alkyl halide",
+      "incorrect_answers": ["Alcohol", "Ether", "Carboxylic acid"]
+    },
+    {
+      "question": "Which compound is commonly used as an indicator in acid-base titrations?",
+      "correct_answer": "Phenolphthalein",
+      "incorrect_answers": ["Sodium chloride", "Ethanol", "Glucose"]
+    },
+    {
+      "question": "What is the oxidation state of carbon in methane (CH4)?",
+      "correct_answer": "-4",
+      "incorrect_answers": ["+4", "0", "-2"]
+    },
+    {
+      "question": "Which process involves a phase change from gas to liquid?",
+      "correct_answer": "Condensation",
+      "incorrect_answers": ["Sublimation", "Deposition", "Evaporation"]
+    },
+    {
+      "question": "What is the boiling point of water at standard atmospheric pressure?",
+      "correct_answer": "100°C",
+      "incorrect_answers": ["90°C", "110°C", "50°C"]
+    },
+    {
+      "question": "Which of the following is an example of a homogeneous mixture?",
+      "correct_answer": "Salt water",
+      "incorrect_answers": ["Salad", "Sand and water", "Oil and water"]
+    },
+    {
+      "question": "Which acid is commonly used in the tanning process of leather?",
+      "correct_answer": "Tannic acid",
+      "incorrect_answers": ["Hydrochloric acid", "Nitric acid", "Sulfuric acid"]
+    },
+    {
+      "question": "Which process is an example of an endothermic reaction?",
+      "correct_answer": "Photosynthesis",
+      "incorrect_answers": ["Combustion", "Respiration", "Fermentation"]
+    },
+    {
+      "question": "What is the primary component of natural gas?",
+      "correct_answer": "Methane",
+      "incorrect_answers": ["Ethane", "Propane", "Butane"]
+    },
+    {
+      "question": "Which catalyst is used in the decomposition of hydrogen peroxide?",
+      "correct_answer": "Manganese dioxide",
+      "incorrect_answers": ["Iron filings", "Copper", "Zinc"]
+    },
+    {
+      "question": "What is a substance that speeds up a reaction without being consumed called?",
+      "correct_answer": "Catalyst",
+      "incorrect_answers": ["Reactant", "Inhibitor", "Solvent"]
+    },
+    {
+      "question": "According to the Bronsted-Lowry theory, what is an acid?",
+      "correct_answer": "Proton donor",
+      "incorrect_answers": ["Proton acceptor", "Electron donor", "Base"]
+    },
+    {
+      "question": "What is the primary product when sodium reacts with water?",
+      "correct_answer": "Sodium hydroxide",
+      "incorrect_answers": ["Sodium oxide", "Hydrogen gas only", "Sodium bicarbonate"]
+    },
+    {
+      "question": "Which species is amphiprotic in nature?",
+      "correct_answer": "HCO3-",
+      "incorrect_answers": ["Cl-", "SO4^2-", "NO3-"]
+    },
+    {
+      "question": "Which property is typical of ionic compounds?",
+      "correct_answer": "High melting points",
+      "incorrect_answers": ["Low melting points", "Conductivity in solid state", "Brittleness and malleability"]
+    },
+    {
+      "question": "What is the major product when an alkene reacts with water in the presence of an acid catalyst?",
+      "correct_answer": "Alcohol",
+      "incorrect_answers": ["Alkane", "Ether", "Carboxylic acid"]
+    },
+    {
+      "question": "Why are noble gases generally inert?",
+      "correct_answer": "They have a complete octet",
+      "incorrect_answers": ["They have low ionization energy", "They easily gain electrons", "They have unpaired electrons"]
+    },
+    {
+      "question": "What is the IUPAC name for CH3CH2OH?",
+      "correct_answer": "Ethanol",
+      "incorrect_answers": ["Methanol", "Propanol", "Butanol"]
+    },
+    {
+      "question": "What is the oxidation state of nitrogen in the ammonium ion (NH4+)?",
+      "correct_answer": "-3",
+      "incorrect_answers": ["+3", "0", "+1"]
+    },
+    {
+      "question": "What characteristic defines a buffer solution?",
+      "correct_answer": "Resists changes in pH",
+      "incorrect_answers": ["Has a high concentration of H+", "Changes pH drastically", "Neutralizes acids only"]
+    },
+    {
+      "question": "What is the process called when a solid changes directly into a gas?",
+      "correct_answer": "Sublimation",
+      "incorrect_answers": ["Vaporization", "Condensation", "Deposition"]
+    },
+    {
+      "question": "Which of the following is an example of a strong base?",
+      "correct_answer": "NaOH",
+      "incorrect_answers": ["NH3", "CH3COOH", "HCl"]
+    },
+    {
+      "question": "Which gas law relates the pressure and volume of a gas at constant temperature?",
+      "correct_answer": "Boyle's Law",
+      "incorrect_answers": ["Charles' Law", "Avogadro's Law", "Dalton's Law"]
+    },
+    {
+      "question": "What is the chemical formula for gypsum?",
+      "correct_answer": "CaSO4·2H2O",
+      "incorrect_answers": ["CaCO3", "CaO", "Ca(OH)2"]
+    },
+    {
+      "question": "Which term describes non-superimposable mirror images?",
+      "correct_answer": "Enantiomers",
+      "incorrect_answers": ["Identical molecules", "Structural isomers", "Geometric isomers"]
+    },
+    {
+      "question": "Which oxidizing agent is commonly used in organic reactions?",
+      "correct_answer": "KMnO4",
+      "incorrect_answers": ["NaBH4", "LiAlH4", "H2O"]
+    },
+    {
+      "question": "What is the product when an alcohol reacts with an acid chloride?",
+      "correct_answer": "Ester",
+      "incorrect_answers": ["Ether", "Ketone", "Alkane"]
+    },
+    {
+      "question": "Which of the following is NOT considered a colligative property?",
+      "correct_answer": "Viscosity",
+      "incorrect_answers": ["Boiling point elevation", "Freezing point depression", "Osmotic pressure"]
+    },
+    {
+      "question": "What is the electron configuration of a sodium atom?",
+      "correct_answer": "[Ne] 3s1",
+      "incorrect_answers": ["[Ne] 3s2", "[He] 2s2", "[Ar] 4s1"]
+    },
+    {
+      "question": "Which compound is correctly named as 2-methylpropane?",
+      "correct_answer": "Isobutane",
+      "incorrect_answers": ["n-Butane", "Propane", "Cyclopropane"]
+    },
+    {
+      "question": "Which statement best describes a covalent bond?",
+      "correct_answer": "Sharing of electron pairs between atoms",
+      "incorrect_answers": ["Transfer of electrons", "Attraction between ions", "Overlap of nuclear orbitals"]
+    },
+    {
+      "question": "What do we call a solution that resists changes in pH when small amounts of acid or base are added?",
+      "correct_answer": "Buffer solution",
+      "incorrect_answers": ["Saturated solution", "Concentrated solution", "Dilute solution"]
+    },
+    {
+      "question": "Which colligative property is used to determine the molecular weight of a compound?",
+      "correct_answer": "Freezing point depression",
+      "incorrect_answers": ["Boiling point elevation", "Osmotic pressure", "Vapor pressure lowering"]
+    },
+    {
+      "question": "What is the oxidation state of iron in Fe2O3?",
+      "correct_answer": "+3",
+      "incorrect_answers": ["+2", "0", "-3"]
+    },
+    {
+      "question": "Which compound is commonly used as a disinfectant in laboratories?",
+      "correct_answer": "Ethanol",
+      "incorrect_answers": ["Benzene", "Toluene", "Hexane"]
+    },
+    {
+      "question": "What type of polymerization reaction involves the successive addition of monomers without the loss of any small molecules?",
+      "correct_answer": "Addition polymerization",
+      "incorrect_answers": ["Substitution reaction", "Elimination reaction", "Combustion reaction"]
+    },
+    {
+      "question": "What is the molar mass of water (H2O)?",
+      "correct_answer": "18 g/mol",
+      "incorrect_answers": ["16 g/mol", "20 g/mol", "22 g/mol"]
+    },
+    {
+      "question": "Which statement correctly describes a saturated solution?",
+      "correct_answer": "No more solute can dissolve at that temperature",
+      "incorrect_answers": ["It always has excess solute", "It is unsaturated", "It can dissolve infinite solute"]
+    },
+    {
+      "question": "Which acid is diprotic?",
+      "correct_answer": "Sulfuric acid",
+      "incorrect_answers": ["Hydrochloric acid", "Nitric acid", "Acetic acid"]
+    },
+    {
+      "question": "What are the products when an ester is hydrolyzed in the presence of a base?",
+      "correct_answer": "Carboxylate ion and alcohol",
+      "incorrect_answers": ["Ether and water", "Ketone and water", "Alkane and water"]
+    },
+    {
+      "question": "What is the process called when a solid converts directly into a gas?",
+      "correct_answer": "Sublimation",
+      "incorrect_answers": ["Deposition", "Condensation", "Vaporization"]
+    },
+    {
+      "question": "Which reaction represents a displacement reaction?",
+      "correct_answer": "Zn + CuSO4 → ZnSO4 + Cu",
+      "incorrect_answers": ["Na + H2O → NaOH + H2", "Cl2 + 2NaBr → 2NaCl + Br2", "H2 + O2 → H2O"]
+    },
+    {
+      "question": "What is the electron configuration of oxygen?",
+      "correct_answer": "1s2 2s2 2p4",
+      "incorrect_answers": ["1s2 2s2 2p3", "1s2 2s2 2p5", "1s2 2s2 2p6"]
+    },
+    {
+      "question": "Which compound is commonly used as a reducing agent in organic chemistry?",
+      "correct_answer": "NaBH4",
+      "incorrect_answers": ["KMnO4", "H2O2", "K2Cr2O7"]
+    },
+    {
+      "question": "How is molarity defined?",
+      "correct_answer": "Moles of solute per liter of solution",
+      "incorrect_answers": ["Grams of solute per liter of solution", "Moles of solute per kilogram of solvent", "Liters of solution per mole of solute"]
+    },
+    {
+      "question": "What is the product when an acid reacts with a base?",
+      "correct_answer": "Salt and water",
+      "incorrect_answers": ["Only water", "Only salt", "Salt and carbon dioxide"]
+    },
+    {
+      "question": "Which reaction is an example of a substitution reaction in organic chemistry?",
+      "correct_answer": "Chloromethane reacting with hydroxide ion",
+      "incorrect_answers": ["Methane reacting with chlorine under UV light", "Ethanol reacting with acetic acid", "Propene reacting with bromine"]
+    },
+    {
+      "question": "Which of the following best defines an electrophile?",
+      "correct_answer": "A species that accepts an electron pair",
+      "incorrect_answers": ["A species that donates an electron pair", "A nucleophile", "A radical species"]
+    },
+    {
+      "question": "Which compound is used in the production of polymers like polyethylene?",
+      "correct_answer": "Ethylene",
+      "incorrect_answers": ["Ethane", "Propylene", "Butane"]
+    },
+    {
+      "question": "How is a transition state's energy best described in a chemical reaction?",
+      "correct_answer": "A high-energy intermediate state",
+      "incorrect_answers": ["The final product", "A stable intermediate", "The reactant complex"]
+    },
+    {
+      "question": "What does Le Chatelier's principle state about a system at equilibrium?",
+      "correct_answer": "It will adjust to counteract changes imposed on it",
+      "incorrect_answers": ["Equilibrium always favors the reactants", "Reaction rate increases with equilibrium", "Equilibrium is not affected by concentration changes"]
+    },
+    {
+      "question": "Which of the following is an example of a displacement reaction?",
+      "correct_answer": "Zn + CuSO4 → ZnSO4 + Cu",
+      "incorrect_answers": ["Na + H2O → NaOH + H2", "Cl2 + 2NaBr → 2NaCl + Br2", "H2 + O2 → H2O"]
+    },
+    {
+      "question": "What is the electron configuration of oxygen?",
+      "correct_answer": "1s2 2s2 2p4",
+      "incorrect_answers": ["1s2 2s2 2p3", "1s2 2s2 2p5", "1s2 2s2 2p6"]
+    },
+    {
+      "question": "Which reagent is a common reducing agent in organic chemistry?",
+      "correct_answer": "NaBH4",
+      "incorrect_answers": ["KMnO4", "H2O2", "K2Cr2O7"]
+    },
+    {
+      "question": "What is the product of a reaction between an acid and a base?",
+      "correct_answer": "Salt and water",
+      "incorrect_answers": ["Only water", "Only salt", "Salt and carbon dioxide"]
+    },
+    {
+      "question": "Which reaction in organic chemistry exemplifies a substitution mechanism?",
+      "correct_answer": "Chloromethane reacting with hydroxide ion",
+      "incorrect_answers": ["Methane reacting with chlorine under UV light", "Ethanol reacting with acetic acid", "Propene reacting with bromine"]
+    },
+    {
+      "question": "Which species is best described as a nucleophile?",
+      "correct_answer": "A species that donates an electron pair",
+      "incorrect_answers": ["A species that accepts an electron pair", "A radical species", "A proton donor"]
+    },
+    {
+      "question": "What is the term for the minimum energy required to start a chemical reaction?",
+      "correct_answer": "Activation energy",
+      "incorrect_answers": ["Reaction enthalpy", "Overall energy change", "Energy stored in products"]
+    }
+  ]
+  
